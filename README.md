@@ -1,3 +1,3 @@
 #MAIN HEADER
 
-basic website with react hooks, custom validations and bootstrap
+basic website with react hooks, custom validations and bootstrap 4
